@@ -1,0 +1,5 @@
+cryptography
+pillow
+tkinterdnd2
+pyperclip
+sv_ttk
