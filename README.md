@@ -9,6 +9,6 @@ I don't recommend it for personal use as it has some flaws and made by only Me a
 
 packages used cryptography, tkinterdnd2, sv_ttk(theme), pyperclip, pillow.
 
-To run the code you have to install all the packages mentioned in requirement.txt file.
+To run the code you have to install all the packages mentioned in requirement.txt file or (pip install -r requirements.txt) to install all the packages.
 
 I have created a executeable file for windows only.
